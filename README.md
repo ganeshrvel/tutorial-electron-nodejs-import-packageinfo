@@ -11,7 +11,7 @@
 
 ##### I have seen many users importing 'package.json' directly into the node.js project. This is a programming disaster as it could leak your sensitive information such as "scripts" or private TOKENS into the bundled js files.
 ##### There is no single clearcut solution to get this done inside an electron app. It has to be handled intelligently using algorithms and fallbacks.
-##### I had to spend a significant amount of time researching how to get this done. This was originally implemented inside [OpenMTP - Advanced Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp "OpenMTP - Advanced Android File Transfer Application for macOS").
+##### I have spent a significant amount of time researching how to get this done. This was originally implemented inside [OpenMTP - Advanced Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp "OpenMTP - Advanced Android File Transfer Application for macOS").
 
 ### Implementation
 
