@@ -104,6 +104,6 @@ Please feel free to contact me at ganeshrvel@outlook.com
 - [electron-root-path](https://github.com/ganeshrvel/npm-electron-root-path "Get the root path of an Electron Application")
 
 ### License
-tutorial-electron-nodejs-import-packageinfo | Get the root path of an Electron Application is released under [MIT License](https://github.com/ganeshrvel/tutorial-electron-nodejs-import-packageinfo/blob/master/LICENSE "MIT License").
+tutorial-electron-nodejs-import-packageinfo is released under [MIT License](https://github.com/ganeshrvel/tutorial-electron-nodejs-import-packageinfo/blob/master/LICENSE "MIT License").
 
 Copyright © 2018 - 2019 Ganesh Rathinavel
